@@ -1,5 +1,5 @@
-# Login-Registration-System-Using-PHP-MySQL
-Using PhP and mysql perform the following operations
+# Form To Perform CRUD operations using PHP & MySQL and styled using HTML & CSS.
+Hello Everyone tried to create a form using PhP and mysql to perform the following operations
 1.Create
 2.Read
 3.Update
