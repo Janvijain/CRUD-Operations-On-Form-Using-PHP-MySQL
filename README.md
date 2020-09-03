@@ -12,3 +12,11 @@ CREATE TABLE `form` (
   `name` varchar(250) NOT NULL,
   `contact` bigint(10) NOT NULL
 ) 
+
+Output Images are attached for references
+img1- Store & Retrieve Data.
+img2 - Edit & Delete Data Of a particular 'id'.
+
+Storing data in the database and retrieving it in the table.
+Data can be edited and deleted by using 'id' as a reference from database.
+If you notice onclicking on Edit , 'Save' button is changed to 'Update' button.
