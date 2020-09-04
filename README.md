@@ -5,7 +5,8 @@ Hello Everyone created a simple form using PhP and MySQL to perform the followin
 3.Update
 4.Delete
 
-SQL script to create database and table is present is #test.sql file
+SQL script to create database and table is present is test.sql file
+
 Create Database -> test
 
 CREATE TABLE `form` (
@@ -20,4 +21,4 @@ img2 - Edit & Delete Data Of a particular 'id'.
 
 Storing data in the database and retrieving it in the table.
 Data can be edited and deleted by using 'id' as a reference from database.
-If you notice onclicking on Edit , 'Save' button is changed to 'Update' button.
+If you perform operations you will notice onclicking Edit , 'Save' button is changed to 'Update' button.
